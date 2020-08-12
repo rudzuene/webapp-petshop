@@ -1,0 +1,31 @@
+#wrapper{
+    width: 800;
+    height: 800;
+    margin: auto ;
+}
+
+#header{
+    width: 800px;
+    height: 200px;
+    background-color: orange;
+}
+
+#product-wrapper{
+    width: 800px;
+    height: 600px;
+
+}
+
+.product-item{
+    width: 120px;
+    height: 100;
+    float: left;
+    border: 1px solid #00ff00;
+
+}
+
+.product-item ing {
+    width: 50;
+    height: 50;
+    
+}
